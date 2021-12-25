@@ -2,10 +2,10 @@
 <b> 『ϝαʅƈσɳ』🇮🇳 </b>
 </h1>
 
-[![LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
+[![FALCONBOT](https://te.legra.ph/file/211b1f9c373d740d6c3c8.jpg)](https://github.com/Sunilkr41/legendclone/edit/master/README.md)
 
 <h6 align="center">
-  <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
+  <b>⚡ falconBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
 </h6>
 
 <p align="center">
