@@ -34,6 +34,6 @@
 
     - `Sorry for Command .img Some bugs In image Plugin I fixed it soon`
 
-- [FALCONBOY](https://t.me/Voll_41)
+- [FALCON BOY](https://t.me/Voll_41)
 - ANY BUGS SEND IN COMMENTS
 - `Do .plinfo <plugin name> to know more about it`
