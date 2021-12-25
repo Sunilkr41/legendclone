@@ -1,5 +1,5 @@
 {
-  "name": "Lêɠêɳ̃dẞø†",
+  "name": "ϝαʅƈσɳ",
   "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ ϝαʅƈσɳ. Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://te.legra.ph/file/211b1f9c373d740d6c3c8.jpg",
   "keywords": [
@@ -20,42 +20,42 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is FALCON User",
-      "value": "Lêɠêɳ̃dẞøY",
+      "value": "ϝαʅƈσɳ",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Lêɠêɳ̃dẞø† is Online",
+      "value": "ϝαʅƈσɳ is Online",
       "required": false
     },
     "ABUSE": {
       "description": " Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "EXTRA_PLUGIN": {
       "description": "Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "SPAM": {
       "description": "Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "ASSISTANT": {
       "description": "Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Legend_Userbot",
+      "value": "@nsnnsnsjjsj",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Channel Username",
-      "value": "@Official_LegendBot",
+      "value": "@bsnbsbsvg",
       "required": false
     },
     "BOY_OR_GIRL": {
@@ -85,12 +85,12 @@
     },
     "ALIVE_EMOJI": {
       "description": "Put here any emoji. Which Will be Show When U Do .alive.",
-      "value": "",
+      "value": "✨",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍.",
+      "value": "I'm Falcon.",
       "required": true
     },
     "PM_PIC": {
@@ -100,7 +100,7 @@
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ 𝖑𝖊ɠêɳ̃dẞø✞︎ 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
+      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ ϝαʅƈσɳbot 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
       "required": false
     },
     "MAX_FLOOD_IN_PM": {
@@ -174,12 +174,12 @@
     },
     "EMOJI_IN_HELP1": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "",
+      "value": "🦋",
       "required": false
     },
     "EMOJI_IN_HELP2": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "",
+      "value": "💫",
       "required": false
     },
     "PM_DATA": {
