@@ -6,20 +6,20 @@
     "telegram",
     "userbot",
     "plugin",
-    "legendbot",
+    "falconbot",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "success_url": "https://t.me/Legend_Userbot",
+  "repository": "https://github.com/Sunilkr41/legendclone/blob/master/Dockerfile",
+  "website": "https://github.com/Sunilkr41/legendclone/blob/master/Dockerfile",
+  "success_url": "https://t.me/nsnnsnsjjsj",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is LEGEND User",
+      "description": "Fill your Full name. By default it is FALCON User",
       "value": "Lêɠêɳ̃dẞøY",
       "required": false
     },
